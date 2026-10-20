@@ -2,26 +2,50 @@
 
 Building a small text editor using Lua and the LÖVE2D framework.  
 
-### About  
+### About   
 
-This project is a personal learning project focused on building a simple text editor from scratch using Lua language and its LÖVE2D Framework.  
+This is a personal learning project focused on exploring Lua and the LÖVE2D framework by building a text editor from scratch. The goal is to develop a basic editor and gradually improve its features, interface, and usability.
 
-### How To Start
+### Current Build Includes  
+The current build of the editor includes:  
+- Login Screen  
+- Editor Layout  
+- Main Menu  
+  
+### Screenshots
 
-- To build this project you need Lua & Love2D Installed.
+Here are some screenshots of the initial prototype.  
 
-### To Run the Program
+1. Login Screen   
+![Image1](Images/img.png)   
 
-There are two ways to run the editor, Drag and drop the folder onto the love.exe or open a terminal and run `love.exe` with folder containing `main.lua` as an arguments. 
+2. Editor Layout   
+![Image2](Images/img1.png)  
+
+3. Main Menu  
+![Image3](Images/img2.png)  
+
+4. Extra
+![Image4](Images/img3.png)
 
 ### Requirement
+To run this project you need:
+- Love2D Version 11.4
+- Lua Version 5.4 or above.
 
-To build this program you need: 
-- Love2D Version 11.4  
-- Lua Version 5.4 or above.  
+### How To Run
+- Install LÖVE2D on your system.
+- Clone or download this repository.
+- Run the project using either of the following methods:  
+  Drag the project folder onto `love.exe`
+  In terminal navigate to the project directory and run: `love .` and pass the project folder path as an argument to the `love` executable.
 
-### Future Improvements  
-
-- Text Editing 
-- File Opening and Saving.
+### Future Improvements
+- Implement text editing functionality 
+- Add file opening and saving.
 - Editor Interface Improvements
+- Make all buttons functional.
+
+
+
+### Example
