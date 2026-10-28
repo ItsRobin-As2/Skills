@@ -46,6 +46,5 @@ To run this project you need:
 - Editor Interface Improvements
 - Make all buttons functional.
 
-
-
-### Example
+### Project Update:- 
+The development of this project has moved to its own repository and will continue there. For more information, check out my Lua Love2D Text Editor repository.
